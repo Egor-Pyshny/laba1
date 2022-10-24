@@ -94,7 +94,7 @@ button.active {
     font-family: GenkBkBas;
     font: italic;
     height: 70;
-    padding: 35px;
+    padding: 35px 25px 35px 25px ;
     font-size: 30px;
     border-bottom: 5px solid rgba(0, 0, 0, 0);
     border-left: 5px solid rgba(0, 0, 0, 0);
